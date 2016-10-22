@@ -1,0 +1,36 @@
+ESTEROS DEL IBERA
+
+Welcome to the Ibera!
+
+The beginning part of this project has been set up to help
+get you started. In the UI you'll see a number of various 
+elements to help make your process easier.
+
+Starting on the "Mapping" tab, you can see fast access buttons
+to determine the projector output:
+
+Display Index - to ensure your displays are setup correctly
+Calibration - a simple calibration plate
+Test Media - this displays media loaded from the Test Media Tab
+Live Input - a placeholder for the live show yet to be developed
+
+Warping Controls allow you fast access to key stoning and grid
+warping controls for the output from each projector.
+
+Save Maps - This will save all the displacement maps from any
+grid warping or key-stoning you've done. This saves an entire
+tox located in the project folder:
+
+ibera\calibration_tox\base_calibration_data
+
+The Previs tab allows for a fast virtual mode view of the content
+as it should be broken up across the installation.
+
+The Test tab is where you can load test media.
+
+The Show tab is where your UI elements might go.
+
+The Debug tab has a simple performance monitor, you might consider
+adding additional elements here to help you debug the network.Don't 
+forget to be mindful of how these elements might impact your
+project's performance
